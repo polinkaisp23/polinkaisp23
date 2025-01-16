@@ -18,11 +18,11 @@
 </body>
 </html>
 
-- 👋 Hi, I’m Polinka
+- 👋 Привет! Я Полина
   
-- 👀 I’m interested in programming
+- 👀 Я много чем интересуюсь, но в основном это программирование.
   
-- 🌱 I’m currently learning programmer
+- 🌱 I’m currently learning programme
   
 - 💞️ I’m looking to collaborate on programming and game development
   
